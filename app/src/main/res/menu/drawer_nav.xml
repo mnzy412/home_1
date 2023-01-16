@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drawer_talkingRoom"
+        android:title="이야기방"
+        />
+    <item
+        android:id="@+id/drawer_diary"
+        android:title="일기장"
+        />
+    <item
+        android:id="@+id/drawer_review"
+        android:title="장터후기"
+        />
+
+</menu>
